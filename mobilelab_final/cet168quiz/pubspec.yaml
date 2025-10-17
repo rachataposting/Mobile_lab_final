@@ -1,0 +1,27 @@
+name: cet168quiz
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0' # แก้ไขเวอร์ชันให้กว้างขึ้นและเข้ากันได้
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Packages
+  firebase_core: ^2.30.0   # แนะนำให้อัปเดตเป็นเวอร์ชันล่าสุด
+  firebase_auth: ^4.19.0   # แนะนำให้อัปเดตเป็นเวอร์ชันล่าสุด
+  cloud_firestore: ^4.17.5 # หรือเวอร์ชันล่าสุด
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

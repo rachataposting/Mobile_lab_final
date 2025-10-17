@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764302595683",
+    "project_id": "cet168-quiz-app",
+    "storage_bucket": "cet168-quiz-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764302595683:android:06b141ec15b1a1b9e84a56",
+        "android_client_info": {
+          "package_name": "com.example.cet168quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgEC60qjYr364ueOUqHrybNEz7Yh7u-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
